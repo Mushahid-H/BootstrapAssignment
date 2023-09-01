@@ -4,6 +4,9 @@
 .header {
   border-radius: 10px 0px 10px 0px;
 }
+.footer {
+  border-radius: 0px 10px 0px 10px;
+}
 .negative-margin {
   margin-top: -10px;
 }
@@ -31,4 +34,18 @@
   width: 130px;
   height: 130px;
   border-radius: 50%;
+}
+.prevue-section {
+  background-color: #f7df8c;
+}
+@media screen and (max-width: 749px) {
+  .negative-margin {
+    margin-top: 0px;
+  }
+  .left-side-margin {
+    margin-left: 0px;
+  }
+  .fa-bars {
+    margin-top: -20px;
+  }
 }
