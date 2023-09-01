@@ -1,0 +1,34 @@
+.header-footer-color {
+  background-color: #910606;
+}
+.header {
+  border-radius: 10px 0px 10px 0px;
+}
+.negative-margin {
+  margin-top: -10px;
+}
+.left-side-margin {
+  margin-left: -8px;
+}
+.main-content-color {
+  background-color: #fbfcfc;
+}
+.bars-margin {
+  margin-top: -20px;
+}
+.text-color {
+  color: #910606;
+}
+.left-side {
+  border-radius: 0px 10px 10px 0px;
+  background-color: #cbf6cf;
+}
+.right-side {
+  border-radius: 10px 0px 0px 10px;
+  background-color: #cbf6cf;
+}
+.sidebar {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
